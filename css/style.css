@@ -9966,7 +9966,7 @@ h6,
 .navbar-nav{
   margin-left: 41%;
 }
-#service ul{
+#service h4{
   text-align: left;
 }
 .portfolio-container a{
@@ -9987,7 +9987,6 @@ h6,
 .hobby{
   margin-bottom: 30px;
   display: inline-block;
-  float: left;
   width: calc(95% - 40px);
 }
 .hobby-icon{
@@ -9998,5 +9997,4 @@ h6,
   font-size: 25px;
   text-align: center;
   line-height: 40px;
-  float: left;
 }
